@@ -1,6 +1,6 @@
 {
   "c": true,
-  "alipays": "https://github.com/azwhikaru/fish_helper_config/",
+  "alipays": "alipays://platformapi/startapp?saId\u1234\u0026qrcode\u003dhttps://qr.alipay.com/aex00733fo8pe2wengwll19",
   "qqGroupKey": "",
   "qqGroupTitle": "",
   "minAdapt": "7.1.30",
